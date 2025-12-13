@@ -8,7 +8,7 @@
 - bullet2
 
 https://github.com/fivethirtyeight/data/tree/master/bachelorette
-- Does getting the first one on one date garauntee top 5? (changed to top 6)
+- Does getting the first one on one date garauntee top 5? 
     - Go through the data and identify each contestant that got the first one on one date 
     - Check where each contestant who got a one on one placed 
     - Only count who placed top 5 in their season 
